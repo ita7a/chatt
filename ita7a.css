@@ -1,0 +1,30 @@
+ul.nav.nav-tabs.fl li a { color: #961340; box-shadow: inset 0 2px 2px rgb(21, 47, 94), 0 0 8px rgb(21, 47, 94);font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 6px!important;text-align: center!important;width: 100%;} ul.nav.nav-tabs.fl li {border-bottom: 3px solid rgb(218, 218, 218);width: 33.3%;} .label-primary, .btn-primary {border-radius: 14px 14px 14px 14px;} textarea.fl.filw.corner.tbox { box-shadow:inset 0 2px 2px rgb(218, 218, 218), 0 0 8px rgb(21, 47, 94);border-radius: 7px;padding-left: 5px;} .label.fl.label.loginstat.label-success { border-radius: 5px 5px 5px 5px!important; font-family: 'jazeera',FontAwesome; height: 22px; display: inline-flex; } .fl.label.loginstat.label-success, .fl.label.loginstat.label-info { color: #961340; border: 1px solid #e1e0e0; border-radius: 5px 5px 5px 5px; margin-top: 1px; background-color: #e1e0e0!important; } div#l1 input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #e1e0e0;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;font-family: 'jazeera-light',FontAwesome;} div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;} div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;} div#l2 button {border-radius: 15px;width: 70%;height: 30px;} div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;font-family: 'jazeera-light',FontAwesome;} div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #e1e0e0;} div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border: 1px solid #e1e0e0;} div#l2 , div#l3 {padding: 2px!important;} div#l1 {height: 80px;margin: 0px 1px -18px 1px;padding: 0px!important;} div#l3 br , div#l2 br {display: none;} div#l2 ,div#l3, div#l1 { border-bottom: 2px solid; margin-bottom: 2px; border-top: 0px solid; margin-top: 0px; border-color: #961340; border-radius: 15px; height: 69px; } div#tlogins .fr.borderg { font-size: 10px!important; } label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.mini.fl { margin-top: 5px; }
+.fl.mini.u-msg{color:#45597D!important;text!important} .lonline.light.break .hand.nosel.fa.uzr.border >.fa { float: right; text-align: right; } label.label.tc.border.btn.fl { border-radius: 40px 40px 0px 40px; } 
+.u-msg.break.fl { color: #590000;}
+ div#tlogins
+button.btn.fr.btn-success.fa.fa-refresh{background- color:#48B097!important;background-image:none;margin-top:1px!important;border:1px solid #fff!important}div#tlogins div#tlogins.fr.borderg { font-size: 10px!important; } div#tlogins .
+<x id="uhtml" style="display:none;">
+    <div class="hand nosel fl uzr borderg" style="text-align:left;background-color:white;border-radius:0px!important;width:99%;margin: 0px;padding:1px;">
+      <img class="fl ustat" style='width:3px;height:36px;margin-left: 1px;'>
+      <img style="width:36px;height:36px;margin-left:1px;" class="fitimg fl u-pic ">
+      <label class="fl muted fa" style="color:indianred;">&nbsp;</label>
+      <img  class="fr co" style="width:16px;border-radius:1px;">
+      <span class="fr uhash" style="color:grey;font-size:70%!important;margin-top: -3px;">#DK</span>
+      <div style="width:72%;" class="fl">
+        <div style="width:100%;margin-top:-2px;display: flex;" class="fl">
+          <img class="fl u-ico" >
+          <div class="fl" style="width:82%;"><span style="margin-top:1px;padding: 0px 8px; max-width:100%;border-radius: 3px;" class="corner u-topic dots"></span></div>
+        </div>
+        <div style="width:100%;color:#888;margin-top:-8px;" class="fl dots mini u-msg"></div>
+      </div>
+    </div>
+  </x>
+  <x id="rhtml" style="display:none;">
+    <div class="  room  borderg hand nosel fl" style="border-radius:0px!important;background-color:white; width:99%;padding:3px;margin:0px;margin-left:2px;">
+      <img style="width:32px;height:32px;margin-right:4px;" class="fl u-pic ">
+      <span class="corner fa fa-user label label-primary fr uc" style="padding:4px;margin-right:-1px;border-radius: 3px;"></span>
+      <div style="width:64%;" class="fl">
+        <div style="width:100%;margin-top:-1px;" class="fl">
+          <div style="width:78%;" class="u-topic ui-corner-all dots">{1}</div>
+        </div>
+        <div style="width:100%;color:#888;margin-top:-8px;" class="fl mini u-msg"></d
